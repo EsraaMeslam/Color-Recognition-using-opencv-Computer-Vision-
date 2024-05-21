@@ -2,11 +2,17 @@ Here are the key points of the provided code:
 
 Capture Video:
 
-python
-Copy code
+<br>
 cap = cv2.VideoCapture(0)
+<br>
 cap.set(cv2.CAP_PROP_FRAME_WIDTH, 700)
+<br>
 cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 400)
+<br>
+
+
+
+
 Processing Loop:
 
 Capture Frame:
